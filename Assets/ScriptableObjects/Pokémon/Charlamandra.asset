@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8834a01d0cbef440afb187b16cde421, type: 3}
+  m_Name: Charlamandra
+  m_EditorClassIdentifier: 
+  nome: Charlamandra
+  descricao: "A chama em sua cauda mostra pot\xEAncia de sua for\xE7a-vital. Se Charlamandra
+    estiver fraco, a chama tamb\xE9m estar\xE1. Se estiver forte, a chama n\xE3o
+    se apagar\xE1 nem que se molhe."
+  imagem: {fileID: 21300000, guid: 8d08eee96c48172418b1a10db62ca904, type: 3}
+  tipo:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  habilidades:
+  - {fileID: 11400000, guid: b671e33dd81efac4185bdab1b4b50179, type: 2}
+  evolucao: {fileID: 11400000, guid: 297c6a3d442ca82429849e816c64be93, type: 2}
+  preEvolucao: {fileID: 0}
